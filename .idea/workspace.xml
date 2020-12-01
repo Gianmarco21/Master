@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3ff5c50-6df0-42dc-89ed-da9222bf0a3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LandingPage_MasterGroup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/About Us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ayuda.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Descripcion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Asesor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Ayuda.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMAGEN OBJETIVOS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/calendario.jpg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/fondo.jpg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/fondo2.jpg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.jpg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/perfil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tiendas.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ejemplo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kWrq0MG6uq2f0xmAtoIl750Pki" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HTML.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/LandingPage_MasterGroup/HTML.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3ff5c50-6df0-42dc-89ed-da9222bf0a3e" name="Default Changelist" comment="" />
+      <created>1605827376105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605827376105</updated>
+      <workItem from="1605827377178" duration="213000" />
+      <workItem from="1605830965671" duration="965000" />
+      <workItem from="1605832779551" duration="81000" />
+      <workItem from="1606350245965" duration="1872000" />
+      <workItem from="1606352148193" duration="1799000" />
+      <workItem from="1606353960202" duration="1797000" />
+      <workItem from="1606355804327" duration="1804000" />
+      <workItem from="1606358135254" duration="1796000" />
+      <workItem from="1606359953425" duration="1794000" />
+      <workItem from="1606361764587" duration="1217000" />
+      <workItem from="1606364815903" duration="1799000" />
+      <workItem from="1606366629871" duration="1801000" />
+      <workItem from="1606370044748" duration="300000" />
+      <workItem from="1606832994994" duration="2534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

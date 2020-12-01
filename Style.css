@@ -1,0 +1,64 @@
+Body{
+    font-family: "Copperplate Gothic Bold";
+    background-image: url("img/fondo2.jpg.jpeg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    font-size: 30px;
+}
+
+#container{
+    width: 80%;
+    margin : 0px auto;
+    border: 2px blue;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-bottom: white;
+    border-radius: 10px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+header{
+    float: left;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    border-bottom: 2px white;
+}
+nav img{
+    float: left;
+}
+nav ul li {
+    float: right;
+    list-style: none;
+    margin: 40px;
+    text-align: center;
+    background: white;
+}
+
+aside{
+    float: right;
+}
+
+#content{
+    float: left;
+    width: calc(100% - 200px);
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+footer{
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
